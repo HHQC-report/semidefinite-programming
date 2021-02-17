@@ -38,7 +38,7 @@ $$ \Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert $$
 
 $\bar{X} = \frac{\sum_{i=1}^n X_i}{n}$
 
-$$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $$
+$$ evidence_{i}=\sum_{j}W_{ij}x\_{j}+b\_{i} $$
 
 $$
 \operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
